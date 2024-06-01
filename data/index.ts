@@ -14,7 +14,7 @@ export const navItems = [
       imgClassName: "w-full h-full",
       titleClassName: "justify-end",
       img: "/b1.svg",
-      spareImg: "",
+      spareImg: "", 
     },
     {
       id: 2,
