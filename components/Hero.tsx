@@ -26,7 +26,7 @@ const Hero = () => {
                     <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">Hi, I'm Kaveen, a Next.js Developer based in Croatia</p>
 
                     <a href="#about">
-                        <MagicButton
+                        <MagicButton    
                             title="Show my Work"
                             icon={<FaLocationArrow/>}
                             position="right"
